@@ -6,5 +6,6 @@
 
 [x] 1번할일:
 - Git 실습 진행
--branch 만드는 연습을 진행
--brance에 대한 이해
+- branch 만드는 연습을 진행
+- brance에 대한 이해
+- push, pull 진행
