@@ -9,3 +9,5 @@
 - branch 만드는 연습을 진행
 - brance에 대한 이해
 - push, pull 진행
+
+-fetch 실습 
